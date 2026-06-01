@@ -1,0 +1,10 @@
+path: ./dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: DESECHO
+  1: EXPORTACION
+  2: LOCAL
